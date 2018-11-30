@@ -4,7 +4,7 @@ import java.util.io.*;
 public class OurScrabbleAI {
 
     /**
-     * Dumb AI that picks the highest-scoring one-tile move. Plays a two-tile move on the first turn. Exchanges all of its
+     * Editing the incrimentalist AI that picks the highest-scoring four-tile move. Plays a two-tile move on the first turn. Exchanges all of its
      * letters if it can't find any other move.
      */
 
